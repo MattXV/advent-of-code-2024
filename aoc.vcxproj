@@ -136,11 +136,12 @@
     <None Include="puzzle-inputs\.gitignore" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day3.cpp" />
+    <ClCompile Include="day4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="puzzle-inputs\day2.txt" />
     <Text Include="puzzle-inputs\day3.txt" />
+    <Text Include="puzzle-inputs\day4.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

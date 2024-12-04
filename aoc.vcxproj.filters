@@ -18,12 +18,13 @@
     <None Include="puzzle-inputs\.gitignore" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day3.cpp">
+    <ClCompile Include="day4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="puzzle-inputs\day2.txt" />
     <Text Include="puzzle-inputs\day3.txt" />
+    <Text Include="puzzle-inputs\day4.txt" />
   </ItemGroup>
 </Project>
